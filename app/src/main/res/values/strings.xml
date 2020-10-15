@@ -1,45 +1,33 @@
 <resources>
     <string name="app_name">Lab_3</string>
-    <string-array name="operationSymbols">
-        <item>MC</item>
-        <item>MR</item>
-        <item>MS</item>
-        <item>M+</item>
-        <item>←</item>
-        <item>CE</item>
-        <item>C</item>
-        <item>±</item>
-        <item>√</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>/</item>
-        <item>%</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>*</item>
-        <item>1/x</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>-</item>
-        <item>0</item>
-        <item>.</item>
-        <item>+</item>
-        <item>=</item>
-    </string-array>
-    <string-array name="numbers">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-    </string-array>
+    <string name="txtCalcWindBottom">0</string>
+    <string name="btnMemClear">MC</string>
+    <string name="btnMemRecal">MR</string>
+    <string name="btnMemSave">MS</string>
+    <string name="btnMemAdd">M+</string>
+    <string name="btnMemSub">M-</string>
+    <string name="btnBackspace">⬅</string>
+    <string name="btnClearLastNmbr">CE</string>
+    <string name="btnClearAllInput">C</string>
+    <string name="btnChangeSigh">±</string>
+    <string name="btnSquarRoot">√</string>
+    <string name="btnDiv">÷</string>
+    <string name="btnPerccent">%</string>
+    <string name="btnMultiply">*</string>
+    <string name="btnDivFromOne">1/x</string>
+    <string name="btnSub">-</string>
+    <string name="btnDot">.</string>
+    <string name="btnAdd">+</string>
+    <string name="btnEquals">=</string>
+    <string name="btnNum0">0</string>
+    <string name="btnNum1">1</string>
+    <string name="btnNum2">2</string>
+    <string name="btnNum3">3</string>
+    <string name="btnNum4">4</string>
+    <string name="btnNum5">5</string>
+    <string name="btnNum6">6</string>
+    <string name="btnNum7">7</string>
+    <string name="btnNum8">8</string>
+    <string name="btnNum9">9</string>
 
 </resources>
